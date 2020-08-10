@@ -6,7 +6,7 @@
 
 - This bot aims to make lives of the elderly easier.
 - It comprises of a 4x4 drive chassis, on which it carries a webcam and a speaker, all powered by the RasPi 3B+.
-- It can detect vioce commands when preceeded by it's name, "April".
+- It can detect voice commands when preceeded by it's name, "April".
 - Voice commands include telling the time, the day and date, the weather, and setting reminders for medicines.
 - The bot can be controlled using a simple controller, hosted using localhost.
 - The localhost webpage also shows the feed of the onboard webcam.
